@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	background-color: #8ab8f6;
+	color: #415894;
+	font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", Segoe UI Symbol;
+	font-weight: bold;
+}
+
+header {
+	display: flex;
+	background-color:#415894;
+	justify-content: center;
+	color: #7d9df4;
+}
+
+.about-us {
+	text-align: center; 
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+	font-size: 3em;
+}
+
+p {
+	margin-left: 1%;
+	font-size: 1.5em;
+}
+
+img {
+	margin-left: 1%
+}
