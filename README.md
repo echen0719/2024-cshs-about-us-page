@@ -8,4 +8,4 @@ This is a public repository with other contributors helping me either in person 
 
 ## Current Look:
 
-![image](https://github.com/user-attachments/assets/2f656edd-c7e4-4f27-8aa1-223b642deb16)
+![image](https://github.com/user-attachments/assets/ef8e8dc3-ac6a-41d0-bf68-3bb90e1668a1)
