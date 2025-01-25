@@ -19,11 +19,26 @@ header {
 	font-size: 3em;
 }
 
-p {
-	margin-left: 1%;
+.stand {
+	margin-left: 2.5%;
 	font-size: 1.5em;
 }
 
-img {
-	margin-left: 1%
+.column {
+	display: flex;
+	flex-direction: column;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 1%;
+	padding-left: 2%;
+	padding-right: 2%;
+	width: 96%; /* 100 - 2 - 2 = 96% */
+}
+
+.member-names {
+	text-align: center;
+	font-size: 1.5em;
 }
