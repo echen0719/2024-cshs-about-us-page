@@ -21,6 +21,7 @@ header {
 
 .stand {
 	margin-left: 2.5%;
+	margin-right: 2.5%;
 	font-size: 1.5em;
 }
 
@@ -38,7 +39,9 @@ header {
 	width: 96%; /* 100 - 2 - 2 = 96% */
 }
 
-.member-names {
+.member-info {
 	text-align: center;
 	font-size: 1.5em;
+	margin-top: 1.5%;
+	margin-bottom: 1.5%
 }
